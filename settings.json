@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-great-icons",
+    "git.confirmSync": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4A148C",
+        "sideBar.background": "#000000",
+        "editor.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000"
+    },
+    "typescript.check.tscVersion": false
+}
